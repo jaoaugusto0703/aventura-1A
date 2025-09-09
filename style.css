@@ -3,6 +3,13 @@ background-color: blue;
 color:black;
 font-family: Arial, Arial, Helvetica, sans-serif;
 display: flex;
-just
+justify-content: center;
+align-items: center;
+height: 700px;
+margin:0;
+}
 
+button{
+    background-color: aqua;
+    color:white;
 }
